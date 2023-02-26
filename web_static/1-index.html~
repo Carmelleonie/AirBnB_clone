@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Head styling</title>
+    <style>
+        /** Body style **/
+        body{
+            margin: 0;
+            padding: 0;
+        }
+
+        /** Header style **/
+        header{
+            background-color: #FF0000;
+            height: 60px;
+            width: 100%;
+        }
+
+        /** Footer style **/
+        footer{
+            background-color: #00FF00;
+            height: 40px;
+            width: 100%;
+            position: absolute;
+            bottom: 0;
+            text-align: center;
+            padding: 20px 0 0 0;
+        }
+    </style>
+</head>
+<body style="">
+    <header>
+    </header>
+
+    <footer>
+        Best School
+    </footer>
+</body>
+</html>

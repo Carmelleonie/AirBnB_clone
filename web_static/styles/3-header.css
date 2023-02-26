@@ -1,0 +1,19 @@
+/** Header style **/
+header{
+    height: 70px;
+    width: 100%;
+    /* Font */
+    background-color: white;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+.logo {
+    background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+    margin-left: 20px;
+    background-size: auto;
+    height: 60px;
+    max-width: 142px;
+    display: block;
+    text-decoration: none;
+}

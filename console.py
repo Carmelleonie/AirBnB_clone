@@ -60,8 +60,7 @@ class HBNBCommand(cmd.Cmd):
 
 
     def do_create(self, arg):
-         """Create instance of class"""
-
+        """Create instance of class"""
         args = parse(arg)
         if len(args) == 0:
             print("** class name  missing **")
